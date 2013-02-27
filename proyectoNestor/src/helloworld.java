@@ -1,7 +1,13 @@
 
 public class helloworld {
 
-	int num1;
-	int num2;
-	int num3;
+	int num1=3;
+	int num2=4;
+	int num3=7;
+}
+
+public int suma(){
+	return num1 + num2;
+	
+	
 }
