@@ -7,7 +7,5 @@ public class helloworld {
 }
 
 public int suma(){
-	return num1 + num2;
-	
-	
+	return num1 + num2+num3;
 }
