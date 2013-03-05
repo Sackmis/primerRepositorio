@@ -7,4 +7,7 @@ public class helloworld {
 	public int suma(){
 		return num1 + num2+num3;
 	}
+	public int resta(){
+		return num3-num1;
+	}
 }
